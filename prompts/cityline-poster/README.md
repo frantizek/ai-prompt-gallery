@@ -2,7 +2,11 @@
 
 An AI prompt that creates ultra-high-resolution minimalist line-art travel posters with a mid-century editorial aesthetic.
 
-![Badge](https://img.shields.io/badge/Prompt-CityLine-v1.0-blue)
+| | |
+|---|---|
+| **Generator** | Microsoft Copilot (DALL-E 3) |
+| **Version** | v1.0 |
+| **Status** | Active |
 
 ## What it does
 
