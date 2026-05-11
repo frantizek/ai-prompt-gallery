@@ -89,6 +89,7 @@ Works with: **DALL-E 3** · **Midjourney** · **Microsoft Copilot** · **Stable 
 | Prompt | Description | Status |
 |--------|-------------|--------|
 | [CityLine Poster](./prompts/cityline-poster/) | Ultra-high-resolution minimalist line-art travel posters | Active |
+| [Vintage Watercolor Poster](./prompts/vintage-watercolor-poster/) | Hand-painted watercolor travel posters with warm nostalgic vibes | Active |
 
 ---
 
