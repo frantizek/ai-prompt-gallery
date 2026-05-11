@@ -11,6 +11,8 @@ Create stunning minimalist travel posters for any city — ultra-high-resolution
 ![Guadalajara poster example](./prompts/cityline-poster/images/guadalajara-terracotta-ivory.png)
 ![La Paz poster example](./prompts/cityline-poster/images/la-paz-turquoise-ivory.png)
 
+*See the [full poster gallery](./prompts/cityline-poster/gallery.md) — includes a Copilot vs ChatGPT comparison for Guadalajara!*
+
 ---
 
 ## Quick Start
