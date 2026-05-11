@@ -1,30 +1,63 @@
 # CityLine Poster Generator
 
-An AI prompt that creates ultra-high-resolution minimalist line-art travel posters with a mid-century editorial aesthetic.
+Create stunning minimalist travel posters for any city — ultra-high-resolution, street-level urban scenes with authentic local culture and a mid-century editorial aesthetic.
 
-| | |
-|---|---|
-| **Generator** | Microsoft Copilot (DALL-E 3) |
-| **Version** | v1.0 |
-| **Status** | Active |
+**Generator:** Microsoft Copilot (DALL-E 3) · **Status:** Active
 
-## What it does
+---
 
-Transforms any city into a stylish, premium travel poster with authentic local culture, street-level perspective, and monochrome silkscreen aesthetics.
+## The Prompt
 
-## Quick Use
+Copy this and replace `[DESTINATION]` with your city:
 
-1. Open [prompt.md](./prompt.md)
-2. Copy the content
-3. Replace `[DESTINATION]` with your city
-4. Paste into your AI image generator (Midjourney, DALL-E, etc.)
+```
+Create an ultra-high-resolution minimalist travel poster of [DESTINATION],
+portraying the city as a stylish everyday urban scene rather than a tourist postcard.
 
-## Examples
+COMPOSITION:
+- Street-level view of an iconic intersection, alley, or pedestrian avenue
+- Locals, commuters, cyclists, café visitors naturally moving through the scene
+- Authentic local signage, storefronts, cafés, transportation signs
+- Large bold typography at the top: "[DESTINATION]"
+- Local language + country name subtitle
 
-See [gallery.md](./gallery.md) for real outputs.
+STYLE:
+- Clean minimalist line-art illustration
+- Swiss modernist / mid-century editorial aesthetic
+- Monochrome color: one main color + one background color
+  (automatically matches the city's atmosphere)
+- Intricate yet organized detail density
+
+COLOR EXAMPLES:
+- Tokyo → vivid red on warm ivory
+- Paris → deep navy on cream
+- New York → charcoal on light gray
+- Kyoto → muted burgundy on warm cream
+- Your city → automatically chosen based on its vibe
+
+OUTPUT:
+- Vertical poster layout
+- 8K ultra detailed, print-ready
+```
+
+---
+
+## Gallery
+
+| City | Color Palette |
+|------|---------------|
+| Guadalajara | Terracotta red on ivory |
+| La Paz | Turquoise on ivory |
+| Zapopan | Jade green on ivory |
+| Nochistlan | Blue on off-white |
+
+See [gallery.md](./gallery.md) for full-size examples.
+
+---
 
 ## Variations
 
-- Change color palette to match your target city
-- Adjust city size for more/less detail density
+- Change the color palette to match your target city
+- Adjust city size for more or less detail
 - Modify typography style for different eras
+- Use any AI image generator (DALL-E, Midjourney, Copilot, Stable Diffusion)
