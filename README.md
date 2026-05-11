@@ -8,8 +8,8 @@ A curated collection of high-quality AI prompts for image generation, productivi
 
 Create stunning minimalist travel posters for any city — ultra-high-resolution, street-level urban scenes with authentic local culture and a mid-century editorial aesthetic.
 
-![Guadalajara poster example](./prompts/cityline-poster/images/guadalajara-terracotta-ivory.png)
-![La Paz poster example](./prompts/cityline-poster/images/la-paz-turquoise-ivory.png)
+![Guadalajara poster example](./prompts/cityline-poster/images/guadalajara-copilot-terracotta-ivory.png)
+![La Paz poster example](./prompts/cityline-poster/images/la-paz-copilot-turquoise-ivory.png)
 
 *See the [full poster gallery](./prompts/cityline-poster/gallery.md) — includes a Copilot vs ChatGPT comparison for Guadalajara!*
 
