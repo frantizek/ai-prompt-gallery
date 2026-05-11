@@ -10,9 +10,9 @@ Real outputs generated with this prompt.
 ![Guadalajara Copilot](./images/guadalajara-copilot-terracotta-ivory.png)
 
 ### ChatGPT
-**Color:** Terracotta red on ivory
+**Color:** Navy on cream (#092854 on #FDFAF2)
 
-![Guadalajara ChatGPT](./images/guadalajara-chatgpt-terracotta-ivory.png)
+![Guadalajara ChatGPT](./images/guadalajara-chatgpt-navy-cream.png)
 
 ---
 
