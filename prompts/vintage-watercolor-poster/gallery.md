@@ -1,13 +1,18 @@
-# Poster Gallery
+# Gallery
 
-Real outputs generated with this prompt.
+This gallery is being refreshed to match the current standardized Vintage Watercolor Poster prompt.
 
-## Tlaquepaque, Mexico
-**Style:** Vibrant warm watercolor with handwritten shop signs and colorful buildings
-**Generated with:** ChatGPT
+Future examples in this folder should be generated using the current `prompt.md` so the showcase stays consistent with the public prompt pack.
 
-![Tlaquepaque](./images/tlaquepaque-chatgpt-vibrant-warm.png)
+## Planned Example Cities
 
----
+- Tlaquepaque
+- Lisbon
+- Havana
+- Kyoto
+- Cartagena
+- Nice
 
-*Add your city! Submit a PR to contribute.*
+## Notes
+
+Use `images/` to store new outputs and add short captions with generator attribution when available.

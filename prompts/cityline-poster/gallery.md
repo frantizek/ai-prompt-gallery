@@ -1,43 +1,33 @@
-# Poster Gallery
+# Gallery
 
-Real outputs generated with this prompt.
+Generated examples created with the CityLine Poster prompt pack.
 
-## Guadalajara, Mexico — Comparison
+## Guadalajara, Mexico
+**Generated with:** ChatGPT  
+**Notes:** Clean editorial linework with a navy-on-cream palette and strong street-level structure.
 
-### Microsoft Copilot
-**Color:** Terracotta red on ivory
+![Guadalajara](./images/guadalajara-chatgpt-navy-cream.png)
+
+## Guadalajara, Mexico — Alternate Version
+**Generated with:** Microsoft Copilot  
+**Notes:** Denser signage and more intricate urban texture in a terracotta-on-ivory palette.
 
 ![Guadalajara Copilot](./images/guadalajara-copilot-terracotta-ivory.png)
 
-### ChatGPT
-**Color:** Navy on cream (#092854 on #FDFAF2)
-
-![Guadalajara ChatGPT](./images/guadalajara-chatgpt-navy-cream.png)
-
----
-
-**Key Differences:** Both use the same prompt, but output styles vary. Copilot tends toward denser linework and more intricate signage detail. ChatGPT produces a cleaner, more stylized interpretation with slightly bolder forms.
-
----
-
 ## La Paz, Mexico
-**Color:** Turquoise on ivory
-**Generated with:** Microsoft Copilot
+**Generated with:** Microsoft Copilot  
+**Notes:** Turquoise-on-ivory palette with a bright coastal-city character.
 
 ![La Paz](./images/la-paz-copilot-turquoise-ivory.png)
 
 ## Zapopan, Mexico
-**Color:** Jade green on ivory
-**Generated with:** Microsoft Copilot
+**Generated with:** Microsoft Copilot  
+**Notes:** Jade-on-ivory palette with layered storefronts and a balanced civic-street feel.
 
 ![Zapopan](./images/zapopan-copilot-jade-ivory.png)
 
 ## Nochistlan, Mexico
-**Color:** Blue on off-white
-**Generated with:** Microsoft Copilot
+**Generated with:** Microsoft Copilot  
+**Notes:** Blue-on-off-white palette with a quieter small-city rhythm.
 
 ![Nochistlan](./images/nochistlan-copilot-blue-offwhite.png)
-
----
-
-*Add your city! Submit a PR to contribute.*

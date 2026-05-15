@@ -1,63 +1,55 @@
-# CityLine Poster Generator
+# CityLine Poster
 
-Create stunning minimalist travel posters for any city — ultra-high-resolution, street-level urban scenes with authentic local culture and a mid-century editorial aesthetic.
+A city-name-only prompt pack for generating premium line-art travel posters that depict a city through everyday urban life rather than postcard clichés.
 
-**Generator:** Microsoft Copilot (DALL-E 3) · **Status:** Active
+## Prompt Type
+City-name-only master prompt
 
----
+## Difficulty
+Easy
 
-## The Prompt
+## Variables
+1 — `[CITY NAME]`
 
-Copy this and replace `[DESTINATION]` with your city:
+## Best Models
+ChatGPT, DALL·E, Midjourney, Copilot, SDXL, Flux
 
-```
-Create an ultra-high-resolution minimalist travel poster of [DESTINATION],
-portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+## Output Style
+Minimalist line-art travel poster / editorial city branding / collectible urban print
 
-COMPOSITION:
-- Street-level view of an iconic intersection, alley, or pedestrian avenue
-- Locals, commuters, cyclists, café visitors naturally moving through the scene
-- Authentic local signage, storefronts, cafés, transportation signs
-- Large bold typography at the top: "[DESTINATION]"
-- Local language + country name subtitle
+## What It Does
 
-STYLE:
-- Clean minimalist line-art illustration
-- Swiss modernist / mid-century editorial aesthetic
-- Monochrome color: one main color + one background color
-  (automatically matches the city's atmosphere)
-- Intricate yet organized detail density
+CityLine Poster turns any city into a refined street-level poster with clean architectural linework, authentic local atmosphere, and strong destination identity. Instead of exaggerating landmarks, it frames the city as a lived-in urban scene filled with movement, signage, storefronts, and subtle visual cues that make the place feel recognizable.
 
-COLOR EXAMPLES:
-- Tokyo → vivid red on warm ivory
-- Paris → deep navy on cream
-- New York → charcoal on light gray
-- Kyoto → muted burgundy on warm cream
-- Your city → automatically chosen based on its vibe
+The result is designed to feel like a premium city-branding poster: modern, polished, graphic, and easy to reuse by changing only the city name.
 
-OUTPUT:
-- Vertical poster layout
-- 8K ultra detailed, print-ready
-```
+## Why It Works
 
----
+- focuses on everyday city identity instead of generic tourist imagery
+- uses a clear street-level composition that image models can interpret well
+- combines architectural detail with clean visual restraint
+- keeps the input simple while producing distinctive output
+- creates a strong collectible-poster aesthetic across many destinations
 
-## Gallery
+## Best For
 
-| City | Color Palette |
-|------|---------------|
-| Guadalajara | Terracotta red on ivory |
-| La Paz | Turquoise on ivory |
-| Zapopan | Jade green on ivory |
-| Nochistlan | Blue on off-white |
+- travel posters
+- destination branding concepts
+- architecture-focused city art
+- editorial tourism visuals
+- collectible print experiments
 
-See [gallery.md](./gallery.md) for full-size examples.
+## How to Use
 
----
+1. Open `prompt.md`
+2. Copy the prompt
+3. Replace `[CITY NAME]` with any city
+4. Paste into your preferred image generator
+5. Generate and iterate if needed
 
-## Variations
+## Files
 
-- Change the color palette to match your target city
-- Adjust city size for more or less detail
-- Modify typography style for different eras
-- Use any AI image generator (DALL-E, Midjourney, Copilot, Stable Diffusion)
+- `prompt.md` — main master prompt
+- `examples.md` — example city substitutions
+- `gallery.md` — sample outputs
+- `images/` — rendered poster images
