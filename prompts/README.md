@@ -12,6 +12,9 @@ Minimalist line-art city travel posters with editorial urban styling.
 ### [Vintage Watercolor Poster](./vintage-watercolor-poster/README.md)
 Hand-painted vacation-style city posters with warm nostalgic energy.
 
+### [Cinematic Night Poster](./cinematic-night-poster/README.md)
+Cinematic night city travel posters with glowing streets and moody urban atmosphere.
+
 ---
 
 ## How to Use
