@@ -1,0 +1,18 @@
+# Gallery
+
+This gallery is being prepared for the current Cinematic Night Poster prompt pack.
+
+Future examples in this folder should be generated using the current `prompt.md` so the showcase stays consistent with the public prompt pack.
+
+## Planned Example Cities
+
+- Tokyo
+- Hong Kong
+- New York
+- Seoul
+- Paris
+- Mexico City
+
+## Notes
+
+Use `images/` to store new outputs and add short captions with generator attribution when available.
