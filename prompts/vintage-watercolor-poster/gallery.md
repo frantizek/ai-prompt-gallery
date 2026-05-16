@@ -1,18 +1,9 @@
 # Gallery
 
-This gallery is being refreshed to match the current standardized Vintage Watercolor Poster prompt.
+Generated examples created with the Vintage Watercolor Poster prompt pack.
 
-Future examples in this folder should be generated using the current `prompt.md` so the showcase stays consistent with the public prompt pack.
+## Nochistlan, Zacatecas, Mexico
+**Generated with:** ChatGPT  
+**Notes:** Warm hand-painted atmosphere with colorful architecture, nostalgic street charm, and a lively vacation-poster mood.
 
-## Planned Example Cities
-
-- Tlaquepaque
-- Lisbon
-- Havana
-- Kyoto
-- Cartagena
-- Nice
-
-## Notes
-
-Use `images/` to store new outputs and add short captions with generator attribution when available.
+![Nochistlan](./images/nochistlan-chatgpt-watercolor-v1.png)

@@ -1,18 +1,15 @@
 # Gallery
 
-This gallery is being prepared for the current Cinematic Night Poster prompt pack.
+Generated examples created with the Cinematic Night Poster prompt pack.
 
-Future examples in this folder should be generated using the current `prompt.md` so the showcase stays consistent with the public prompt pack.
+## Guadalajara, Mexico
+**Generated with:** Microsoft Copilot  
+**Notes:** Warm orange city glow, reflective streets, nightlife density, and strong cathedral-centered depth.
 
-## Planned Example Cities
+![Guadalajara](./images/guadalajara-copilot-cinematic-night-v1.png)
 
-- Tokyo
-- Hong Kong
-- New York
-- Seoul
-- Paris
-- Mexico City
+## Zapopan, Mexico
+**Generated with:** ChatGPT  
+**Notes:** Polished civic-night atmosphere with illuminated streets, modern transit, signage detail, and premium destination-poster styling.
 
-## Notes
-
-Use `images/` to store new outputs and add short captions with generator attribution when available.
+![Zapopan](./images/zapopan-chatgpt-cinematic-night-v1.png)
