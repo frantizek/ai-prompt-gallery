@@ -1,43 +1,55 @@
-# Vintage Watercolor Poster Generator
+# Vintage Watercolor Poster
 
-Create warm, nostalgic travel posters with a hand-painted watercolor aesthetic — detailed street scenes filled with local culture, colorful buildings, and authentic vacation vibes.
+A city-name-only prompt pack for generating nostalgic watercolor travel posters that feel like hand-painted vacation keepsakes.
 
-**Status:** Active
+## Prompt Type
+City-name-only master prompt
 
----
+## Difficulty
+Easy
 
-## The Prompt
+## Variables
+1 — `[CITY NAME]`
 
-Copy this and replace `[CITY NAME]` with your city:
+## Best Models
+ChatGPT, DALL·E, Midjourney, Copilot, SDXL, Flux
 
-```
-Create a detailed vintage watercolor travel poster of [CITY NAME], styled like a hand-painted vacation postcard.
+## Output Style
+Vintage watercolor travel poster / nostalgic destination print / illustrated vacation postcard
 
-Show a lively street scene filled with local culture, tourists, cafés, colorful buildings, palm trees or iconic nature, market signs, restaurants, and famous landmarks from the city. Add multiple handwritten-style shop signs, food boards, and local phrases naturally integrated into the environment.
+## What It Does
 
-Include a large elegant watercolor title at the top:
-"[CITY NAME]"
-with a small travel-style tagline underneath.
+Vintage Watercolor Poster turns any city into a warm, hand-painted travel scene filled with charm, local character, and relaxed holiday atmosphere. It emphasizes colorful streets, layered shopfronts, people, sunlight, and softly integrated landmarks to create images that feel like collectible vacation posters rather than generic tourist ads.
 
-Style:
-hand-painted watercolor illustration, textured paper, warm sunlight, vibrant vacation colors, detailed street life, nostalgic travel poster aesthetic, soft ink outlines, artistic brush textures.
+The result is designed to feel painterly, inviting, and emotionally memorable while staying easy to reuse by changing only the city name.
 
-Composition:
-busy but cozy tourist atmosphere, cinematic perspective, lots of tiny details, authentic local vibe, vertical 4:5 poster layout.
-```
+## Why It Works
 
----
+- combines a familiar travel-poster structure with a softer emotional style
+- encourages rich local detail without requiring many user inputs
+- gives image models a clear vacation-scene direction
+- produces output that is colorful, nostalgic, and easy to recognize
+- works across coastal, historic, tropical, and urban destinations
 
-## Gallery
+## Best For
 
-See [gallery.md](./gallery.md) for real outputs.
+- vacation-style travel posters
+- colorful destination art
+- nostalgic postcard aesthetics
+- culture-rich city scenes
+- souvenir-style print experiments
 
----
+## How to Use
 
-## Variations
+1. Open `prompt.md`
+2. Copy the prompt
+3. Replace `[CITY NAME]` with any city
+4. Paste into your preferred image generator
+5. Generate and iterate if needed
 
-- Add specific landmarks or neighborhoods to customize the scene
-- Adjust the color palette to match your target city's vibe
-- Change the tagline to suit your mood (e.g., "Discover the charm", "Where colors come alive")
+## Files
 
-Works with: **DALL-E** · **Midjourney** · **ChatGPT** · **Stable Diffusion**
+- `prompt.md` — main master prompt
+- `examples.md` — example city substitutions
+- `gallery.md` — sample outputs
+- `images/` — rendered poster images

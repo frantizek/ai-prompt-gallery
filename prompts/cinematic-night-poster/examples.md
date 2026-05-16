@@ -5,13 +5,13 @@ These examples use the same prompt and change only the main variable.
 ## Example Replacements
 
 - Tokyo
-- Paris
+- Hong Kong
 - New York
 - Seoul
+- Paris
 - Mexico City
-- Lisbon
-- Kyoto
-- Hong Kong
+- Bangkok
+- Istanbul
 
 ## Example Usage
 
@@ -28,8 +28,8 @@ With:
 ### Tokyo
 Replace `[CITY NAME]` with `Tokyo`
 
-### Paris
-Replace `[CITY NAME]` with `Paris`
+### Hong Kong
+Replace `[CITY NAME]` with `Hong Kong`
 
 ### New York
 Replace `[CITY NAME]` with `New York`
@@ -37,14 +37,14 @@ Replace `[CITY NAME]` with `New York`
 ### Seoul
 Replace `[CITY NAME]` with `Seoul`
 
+### Paris
+Replace `[CITY NAME]` with `Paris`
+
 ### Mexico City
 Replace `[CITY NAME]` with `Mexico City`
 
-### Lisbon
-Replace `[CITY NAME]` with `Lisbon`
+### Bangkok
+Replace `[CITY NAME]` with `Bangkok`
 
-### Kyoto
-Replace `[CITY NAME]` with `Kyoto`
-
-### Hong Kong
-Replace `[CITY NAME]` with `Hong Kong`
+### Istanbul
+Replace `[CITY NAME]` with `Istanbul`

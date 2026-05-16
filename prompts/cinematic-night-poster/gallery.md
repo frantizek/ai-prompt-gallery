@@ -1,17 +1,17 @@
 # Gallery
 
-This gallery is being refreshed to match the current standardized Vintage Watercolor Poster prompt.
+This gallery is being prepared for the current Cinematic Night Poster prompt pack.
 
 Future examples in this folder should be generated using the current `prompt.md` so the showcase stays consistent with the public prompt pack.
 
 ## Planned Example Cities
 
-- Tlaquepaque
-- Lisbon
-- Havana
-- Kyoto
-- Cartagena
-- Nice
+- Tokyo
+- Hong Kong
+- New York
+- Seoul
+- Paris
+- Mexico City
 
 ## Notes
 

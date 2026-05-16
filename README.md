@@ -1,96 +1,97 @@
 # AI Prompt Gallery
 
-A curated collection of high-quality AI prompts for image generation, productivity, and creative work.
+A curated gallery of reusable AI prompt packs for image generation, creative work, and visual experimentation.
+
+This repository is built around **prompt packs**: structured, copy-ready prompts designed to be easy to use, easy to modify, and capable of producing distinctive results with minimal effort.
 
 ---
 
-## CityLine Poster Generator
+## What This Repository Is
 
-Create stunning minimalist travel posters for any city — ultra-high-resolution, street-level urban scenes with authentic local culture and a mid-century editorial aesthetic.
+This is a public collection of prompts that are:
 
-![Guadalajara poster example](./prompts/cityline-poster/images/guadalajara-chatgpt-navy-cream.png)
-![La Paz poster example](./prompts/cityline-poster/images/la-paz-copilot-turquoise-ivory.png)
+- worth trying
+- easy to reuse
+- visually or creatively distinctive
+- structured for consistency
+- useful for experimentation and iteration
 
-*See the [full poster gallery](./prompts/cityline-poster/gallery.md) — includes a Copilot vs ChatGPT comparison for Guadalajara!*
-
----
-
-## Quick Start
-
-1. Copy the prompt below
-2. Replace `[DESTINATION]` with your city
-3. Paste in DALL-E, Midjourney, Copilot, or any AI image generator
+The goal is not just to collect prompts, but to organize them into a reusable system that can scale over time.
 
 ---
 
-## The Prompt
+## What Makes a Prompt Pack
 
-```
-Create an ultra-high-resolution minimalist travel poster of [DESTINATION],
-portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+Each prompt pack lives in its own folder and usually includes:
 
-COMPOSITION:
-- Street-level view of an iconic intersection, alley, or pedestrian avenue
-- Locals, commuters, cyclists, café visitors naturally moving through the scene
-- Authentic local signage, storefronts, cafés, transportation signs
-- Large bold typography at the top: "[DESTINATION]"
-- Local language + country name subtitle
+- `prompt.md` — the main copy-paste prompt
+- `README.md` — explanation, usage, and metadata
+- `examples.md` — simple substitutions or variations
+- `gallery.md` — generated examples with captions
+- `images/` — rendered samples
 
-STYLE:
-- Clean minimalist line-art illustration
-- Swiss modernist / mid-century editorial aesthetic
-- Monochrome color: one main color + one background color
-  (automatically matches the city's atmosphere)
-- Intricate yet organized detail density
-
-COLOR EXAMPLES:
-- Tokyo → vivid red on warm ivory
-- Paris → deep navy on cream
-- New York → charcoal on light gray
-- Kyoto → muted burgundy on warm cream
-- Hong Kong → teal on pale ivory
-- Your city → automatically chosen based on its vibe
-
-OUTPUT:
-- Vertical poster layout
-- 8K ultra detailed, print-ready
-```
+This structure keeps prompt text separate from explanation and showcase content.
 
 ---
 
-## More Examples
+## Prompt Design Principles
 
-See the [full poster gallery](./prompts/cityline-poster/gallery.md) with 4+ cities and color palettes.
+Most prompt packs in this repo follow a few core rules:
 
-| City | Color Palette |
-|------|---------------|
-| Guadalajara | Terracotta red on ivory |
-| La Paz | Turquoise on ivory |
-| Zapopan | Jade green on ivory |
-| Nochistlan | Blue on off-white |
+- **one main variable** whenever possible
+- **strong visual or creative identity**
+- **minimal setup**
+- **high reuse value**
+- **clear internal structure**
 
----
+For example, many prompts are designed so you only need to replace something like:
 
-## How It Works
+`[CITY NAME]`
 
-| Step | What you do |
-|------|-------------|
-| 1 | Copy the prompt above |
-| 2 | Replace `[DESTINATION]` with any city |
-| 3 | Paste into your AI image generator |
-| 4 | Get a print-ready travel poster |
-
-Works with: **DALL-E 3** · **Midjourney** · **Microsoft Copilot** · **Stable Diffusion**
+and generate immediately.
 
 ---
 
 ## Available Prompts
 
-| Prompt | Description | Status |
-|--------|-------------|--------|
-| [CityLine Poster](./prompts/cityline-poster/) | Ultra-high-resolution minimalist line-art travel posters | Active |
-| [Vintage Watercolor Poster](./prompts/vintage-watercolor-poster/) | Hand-painted watercolor travel posters with warm nostalgic vibes | Active |
+| Prompt | Description | Type | Status |
+|--------|-------------|------|--------|
+| [CityLine Poster](./prompts/cityline-poster/README.md) | Minimalist line-art city travel posters with editorial urban styling | City-name-only | Active |
+| [Vintage Watercolor Poster](./prompts/vintage-watercolor-poster/README.md) | Hand-painted vacation-style city posters with nostalgic warmth | City-name-only | Active |
+
+See the full prompt index in [prompts/README.md](./prompts/README.md).
 
 ---
 
-*Want to contribute a prompt? Check [CONTRIBUTING.md](./CONTRIBUTING.md)*
+## Quick Start
+
+1. Open any prompt folder inside `prompts/`
+2. Read the prompt pack `README.md`
+3. Copy the contents of `prompt.md`
+4. Replace the main variable, such as `[CITY NAME]`
+5. Paste into your image generator
+6. Generate and iterate if needed
+
+Compatible with tools like **ChatGPT**, **DALL·E**, **Midjourney**, **Copilot**, **Stable Diffusion**, **SDXL**, **Flux**, and similar image models.
+
+---
+
+## Repository Structure
+
+```text
+prompts/
+└── prompt-name/
+    ├── README.md
+    ├── prompt.md
+    ├── examples.md
+    ├── gallery.md
+    └── images/
+```
+
+---
+
+## Contributing
+
+Want to add a new prompt pack, improve an existing one, or contribute sample outputs?
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
