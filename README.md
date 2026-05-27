@@ -72,6 +72,7 @@ and generate immediately.
 | [Papercraft Figurine Portrait](./prompts/papercraft-figurine-portrait/) | Ultra-realistic origami papercraft miniature figurine with identity lock | Subject-only | Active |
 | [Neo-Noir Portrait](./prompts/neo-noir-portrait/) | High-contrast cinematic graphic novel portrait with dual-tone lighting | Subject-only | Active |
 | [Liquid Chrome Portrait](./prompts/liquid-chrome-portrait/) | Futuristic sci-fi portrait morphing into liquid chrome with HDRI reflections | Subject-only | Active |
+| [Synthwave Poster Portrait](./prompts/synthwave-poster-portrait/) | 1980s retro movie poster with VHS aesthetics and split neon lighting | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
