@@ -101,6 +101,9 @@ and generate immediately.
 | [Gamer Spider-Man Selfie Portrait](./prompts/gamer-spiderman-selfie-portrait/) | Spider-Man costume selfie in pink gaming chair with Funko Pop! collection | Subject-only | Active |
 | [Phone Puddle Surreal Portrait](./prompts/phone-puddle-surreal-portrait/) | Surreal face emerging from phone merged with rain puddle on asphalt | Subject-only | Active |
 | [Abstract Red Sunglasses Portrait](./prompts/abstract-red-sunglasses-portrait/) | Bold mixed-media abstract portrait with red sunglasses and grunge aesthetic | Subject-only | Active |
+| [Winter Snow Portrait](./prompts/winter-snow-portrait/) | Cinematic frost-covered winter portrait with cold blue tones and bokeh snow | Subject-only | Active |
+| [Blueprint Geometric Portrait](./prompts/blueprint-geometric-portrait/) | Half-face digital art with architectural blueprints and geometric overlays | Subject-only | Active |
+| [Halloween Spider Portrait](./prompts/halloween-spider-portrait/) | Editorial Halloween fashion with velvet bodysuit and spider accessories | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
