@@ -85,6 +85,9 @@ and generate immediately.
 | [Macaw Portrait](./prompts/macaw-portrait/) | Ultra-realistic close-up portrait with vibrant blue-and-gold macaw | Subject-only | Active |
 | [Forced Perspective Portrait](./prompts/forced-perspective-portrait/) | Playful forced-perspective outdoor scene with humorous illusions | Subject-only | Active |
 | [Cyberpunk Code Portrait](./prompts/cyberpunk-code-portrait/) | Rain-soaked digital world portrait with Matrix-style code glasses | Subject-only | Active |
+| [Crocodile River Portrait](./prompts/crocodile-river-portrait/) | Relaxed subject by a forest river as a crocodile glides behind | Subject-only | Active |
+| [Lightning Arc Portrait](./prompts/lightning-arc-portrait/) | Suspended mid-air with crackling lightning arcs in a cyberpunk alley | Subject-only | Active |
+| [Motion Blur Crowd Portrait](./prompts/motion-blur-crowd-portrait/) | Still subject in rushing crowd with dramatic golden hour light | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
