@@ -118,6 +118,9 @@ and generate immediately.
 | [Papel Picado Portrait](./prompts/papel-picado-portrait/) | Mexican folk art cut-paper design in gold metallic tissue paper | Subject-only | Active |
 | [Snow Globe Christmas Portrait](./prompts/snow-globe-christmas-portrait/) | Man and Coca-Cola bear inside a giant snow globe with Christmas village | Subject-only | Active |
 | [Satin Pantyhose Portrait](./prompts/satin-pantyhose-portrait/) | Elegant studio portrait with highly satinized shiny pantyhose on bench | Subject-only | Active |
+| [Velma Cosplay Portrait](./prompts/velma-cosplay-portrait/) | Velma Dinkley cosplay in abandoned mansion library with moonlight | Subject-only | Active |
+| [Double Exposure Concert Portrait](./prompts/double-exposure-concert-portrait/) | Man on stage with crowd and giant profile silhouette in concert lights | Subject-only | Active |
+| [Liquid Paint Illustration Portrait](./prompts/liquid-paint-illustration-portrait/) | Digital illustration bust with liquid paint drips and cartoon aesthetics | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
