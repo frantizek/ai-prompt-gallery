@@ -96,6 +96,8 @@ and generate immediately.
 | [Vice City Poster Portrait](./prompts/vice-city-poster-portrait/) | GTA Vice City-style Miami poster with vintage supercar | Subject-only | Active |
 | [Keyhole Portrait](./prompts/keyhole-portrait/) | Noir-inspired view through a giant keyhole with theatrical lighting | Subject-only | Active |
 | [Neon Math Portrait](./prompts/neon-math-portrait/) | Glowing neon glasses with floating physics equations and holographic effects | Subject-only | Active |
+| [Studio Director's Chair Portrait](./prompts/studio-director-chair-portrait/) | Editorial studio portrait on director's chair with cinematic 16:9 composition | Subject-only | Active |
+| [Flower Field Aerial Portrait](./prompts/flower-field-aerial-portrait/) | Aerial golden hour portrait in tall marigold field with 4:3 cinematic feel | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
