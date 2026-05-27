@@ -109,6 +109,9 @@ and generate immediately.
 | [Gothic Skull Bathtub Portrait](./prompts/gothic-skull-bathtub-portrait/) | Gothic enchantress in skull-shaped bathtub with candlelit shadows | Subject-only | Active |
 | [Demonic Queen Portrait](./prompts/demonic-queen-portrait/) | Dark fantasy demonic queen with horns, pentagram, and hellish throne room | Subject-only | Active |
 | [Floating Girl & Goat Portrait](./prompts/floating-goat-portrait/) | Surreal gothic photograph of floating girl above a black goat in canyon | Subject-only | Active |
+| [Superhero Group Selfie Portrait](./prompts/superhero-group-selfie-portrait/) | Group selfie with Thor, Superman, Iron Man, Captain America, and Deadpool | Subject-only | Active |
+| [Kitchen Bikini Portrait](./prompts/kitchen-bikini-portrait/) | Fashion editorial portrait in red bikini in a modern minimalist kitchen | Subject-only | Active |
+| [Double Exposure Life Cycle Portrait](./prompts/double-exposure-lifecycle-portrait/) | Surreal double-exposure with young and old faces and four seasons | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
