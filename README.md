@@ -112,6 +112,9 @@ and generate immediately.
 | [Superhero Group Selfie Portrait](./prompts/superhero-group-selfie-portrait/) | Group selfie with Thor, Superman, Iron Man, Captain America, and Deadpool | Subject-only | Active |
 | [Kitchen Bikini Portrait](./prompts/kitchen-bikini-portrait/) | Fashion editorial portrait in red bikini in a modern minimalist kitchen | Subject-only | Active |
 | [Double Exposure Life Cycle Portrait](./prompts/double-exposure-lifecycle-portrait/) | Surreal double-exposure with young and old faces and four seasons | Subject-only | Active |
+| [Day of the Dead Portrait](./prompts/day-of-the-dead-portrait/) | Cinematic Día de Muertos cemetery portrait with candlelight and marigolds | Subject-only | Active |
+| [Catrina Portrait](./prompts/catrina-portrait/) | Hyper-realistic Catrina face paint portrait in festive Mexican altar setting | Subject-only | Active |
+| [Studio Spotlight Portrait](./prompts/studio-spotlight-portrait/) | High top-down fashion portrait under single spotlight with satin textures | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
