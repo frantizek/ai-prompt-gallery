@@ -67,6 +67,7 @@ and generate immediately.
 | Prompt | Description | Type | Status |
 |--------|-------------|------|--------|
 | [Fantasy Tribal Portrait](./prompts/fantasy-tribal-portrait/) | Ultra-realistic cinematic fantasy portrait with tribal aesthetics | Subject-only | Active |
+| [Fantasy Frost Warrior Portrait](./prompts/fantasy-frost-warrior-portrait/) | Ultra-realistic dark fantasy portrait with Nordic frost warrior theme | Subject-only | Active |
 
 See the full prompt index in [prompts/README.md](./prompts/README.md).
 
