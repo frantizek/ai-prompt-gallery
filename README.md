@@ -78,6 +78,9 @@ and generate immediately.
 | [Ink Splatter Portrait](./prompts/ink-splatter-portrait/) | Mixed-media portrait dissolving into jet-black ink with Rembrandt lighting | Subject-only | Active |
 | [Paper Cut Portrait](./prompts/paper-cut-portrait/) | Layered paper-cut shadow box portrait with gold foil accents | Subject-only | Active |
 | [Kintsugi Marble Portrait](./prompts/kintsugi-marble-portrait/) | Shattered marble bust repaired with flowing gold in museum archival style | Subject-only | Active |
+| [Blueprint Portrait](./prompts/blueprint-portrait/) | Half-flesh, half-technical blueprint with cyanotype engineering schematics | Subject-only | Active |
+| [Geometric Broken Realism Portrait](./prompts/geometric-broken-realism-portrait/) | Fragmented geometric brushstrokes with polygon shapes and abstract blocks | Subject-only | Active |
+| [Paparazzi Portrait](./prompts/paparazzi-portrait/) | Black-and-white cinematic scene in a dense crowd of vintage paparazzi | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
