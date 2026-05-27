@@ -88,6 +88,9 @@ and generate immediately.
 | [Crocodile River Portrait](./prompts/crocodile-river-portrait/) | Relaxed subject by a forest river as a crocodile glides behind | Subject-only | Active |
 | [Lightning Arc Portrait](./prompts/lightning-arc-portrait/) | Suspended mid-air with crackling lightning arcs in a cyberpunk alley | Subject-only | Active |
 | [Motion Blur Crowd Portrait](./prompts/motion-blur-crowd-portrait/) | Still subject in rushing crowd with dramatic golden hour light | Subject-only | Active |
+| [Double Exposure Storm Portrait](./prompts/double-exposure-storm-portrait/) | Profile silhouette blended with stormy ocean and mountain landscape | Subject-only | Active |
+| [Neon Noir Wet Portrait](./prompts/neon-noir-wet-portrait/) | Glossy wet platinum-blonde portrait with blue and teal light streaks | Subject-only | Active |
+| [Double Exposure Sunset Portrait](./prompts/double-exposure-sunset-portrait/) | Profile silhouette blended with ocean sunset and coastal cliffs | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
