@@ -104,6 +104,9 @@ and generate immediately.
 | [Winter Snow Portrait](./prompts/winter-snow-portrait/) | Cinematic frost-covered winter portrait with cold blue tones and bokeh snow | Subject-only | Active |
 | [Blueprint Geometric Portrait](./prompts/blueprint-geometric-portrait/) | Half-face digital art with architectural blueprints and geometric overlays | Subject-only | Active |
 | [Halloween Spider Portrait](./prompts/halloween-spider-portrait/) | Editorial Halloween fashion with velvet bodysuit and spider accessories | Subject-only | Active |
+| [NURI Oaxaca Vogue Portrait](./prompts/nuri-oaxaca-vogue-portrait/) | 16K editorial magazine cover at Monte Albán with full overlay typography | Subject-only | Active |
+| [Salem Witch Portrait](./prompts/salem-witch-portrait/) | Gothic witch burning portrait with red moon and ritual atmosphere | Subject-only | Active |
+| [Gothic Skull Bathtub Portrait](./prompts/gothic-skull-bathtub-portrait/) | Gothic enchantress in skull-shaped bathtub with candlelit shadows | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
