@@ -115,6 +115,9 @@ and generate immediately.
 | [Day of the Dead Portrait](./prompts/day-of-the-dead-portrait/) | Cinematic Día de Muertos cemetery portrait with candlelight and marigolds | Subject-only | Active |
 | [Catrina Portrait](./prompts/catrina-portrait/) | Hyper-realistic Catrina face paint portrait in festive Mexican altar setting | Subject-only | Active |
 | [Studio Spotlight Portrait](./prompts/studio-spotlight-portrait/) | High top-down fashion portrait under single spotlight with satin textures | Subject-only | Active |
+| [Papel Picado Portrait](./prompts/papel-picado-portrait/) | Mexican folk art cut-paper design in gold metallic tissue paper | Subject-only | Active |
+| [Snow Globe Christmas Portrait](./prompts/snow-globe-christmas-portrait/) | Man and Coca-Cola bear inside a giant snow globe with Christmas village | Subject-only | Active |
+| [Satin Pantyhose Portrait](./prompts/satin-pantyhose-portrait/) | Elegant studio portrait with highly satinized shiny pantyhose on bench | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
