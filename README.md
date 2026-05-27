@@ -70,6 +70,7 @@ and generate immediately.
 | [Fantasy Frost Warrior Portrait](./prompts/fantasy-frost-warrior-portrait/) | Ultra-realistic dark fantasy portrait with Nordic frost warrior theme | Subject-only | Active |
 | [Cinematic Mini-Me Portrait](./prompts/cinematic-mini-me-portrait/) | Side-by-side portrait with cartoon-style miniature version | Subject-only | Active |
 | [Papercraft Figurine Portrait](./prompts/papercraft-figurine-portrait/) | Ultra-realistic origami papercraft miniature figurine with identity lock | Subject-only | Active |
+| [Neo-Noir Portrait](./prompts/neo-noir-portrait/) | High-contrast cinematic graphic novel portrait with dual-tone lighting | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
