@@ -91,6 +91,9 @@ and generate immediately.
 | [Double Exposure Storm Portrait](./prompts/double-exposure-storm-portrait/) | Profile silhouette blended with stormy ocean and mountain landscape | Subject-only | Active |
 | [Neon Noir Wet Portrait](./prompts/neon-noir-wet-portrait/) | Glossy wet platinum-blonde portrait with blue and teal light streaks | Subject-only | Active |
 | [Double Exposure Sunset Portrait](./prompts/double-exposure-sunset-portrait/) | Profile silhouette blended with ocean sunset and coastal cliffs | Subject-only | Active |
+| [Washing Machine Portrait](./prompts/washing-machine-portrait/) | Dramatic reach through circular frame with dice and moody lighting | Subject-only | Active |
+| [Dark Fantasy Sorceress Portrait](./prompts/dark-fantasy-sorceress-portrait/) | Hooded sorceress with glowing runic markings and fiery red eye | Subject-only | Active |
+| [Vice City Poster Portrait](./prompts/vice-city-poster-portrait/) | GTA Vice City-style Miami poster with vintage supercar | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
