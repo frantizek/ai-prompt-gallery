@@ -75,6 +75,9 @@ and generate immediately.
 | [Synthwave Poster Portrait](./prompts/synthwave-poster-portrait/) | 1980s retro movie poster with VHS aesthetics and split neon lighting | Subject-only | Active |
 | [Shattered Glass Portrait](./prompts/shattered-glass-portrait/) | Psychological fragmentation portrait through smashed safety glass | Subject-only | Active |
 | [Cyberpunk Glitch Portrait](./prompts/cyberpunk-glitch-portrait/) | Blade Runner-inspired glitch portrait with holographic UI and neon signage | Subject-only | Active |
+| [Ink Splatter Portrait](./prompts/ink-splatter-portrait/) | Mixed-media portrait dissolving into jet-black ink with Rembrandt lighting | Subject-only | Active |
+| [Paper Cut Portrait](./prompts/paper-cut-portrait/) | Layered paper-cut shadow box portrait with gold foil accents | Subject-only | Active |
+| [Kintsugi Marble Portrait](./prompts/kintsugi-marble-portrait/) | Shattered marble bust repaired with flowing gold in museum archival style | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
