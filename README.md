@@ -94,6 +94,8 @@ and generate immediately.
 | [Washing Machine Portrait](./prompts/washing-machine-portrait/) | Dramatic reach through circular frame with dice and moody lighting | Subject-only | Active |
 | [Dark Fantasy Sorceress Portrait](./prompts/dark-fantasy-sorceress-portrait/) | Hooded sorceress with glowing runic markings and fiery red eye | Subject-only | Active |
 | [Vice City Poster Portrait](./prompts/vice-city-poster-portrait/) | GTA Vice City-style Miami poster with vintage supercar | Subject-only | Active |
+| [Keyhole Portrait](./prompts/keyhole-portrait/) | Noir-inspired view through a giant keyhole with theatrical lighting | Subject-only | Active |
+| [Neon Math Portrait](./prompts/neon-math-portrait/) | Glowing neon glasses with floating physics equations and holographic effects | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
