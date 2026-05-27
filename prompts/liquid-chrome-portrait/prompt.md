@@ -1,0 +1,5 @@
+# Liquid Chrome Portrait Prompt
+
+```
+A futuristic sci-fi poster featuring the uploaded face as reference morphing into liquid chrome. The subject is emerging from a pool of mercury, with the liquid metal actively flowing up the neck and covering half the face. The chrome surface reflects a high-dynamic-range (HDRI) studio environment with softboxes and strip lights, creating mesmerizing specular highlights. The human skin visible is matte and textured to contrast with the perfect, mirror-like finish of the metal. 'Frantizek' is embossed into the liquid metal pooling at the bottom of the frame, distorting with the ripples. The photography is sharp, using a 100mm macro lens to capture the surface tension of the liquid. The color palette is monochromatic silver and skin tones, with a cold blue rim light separating the subject from the dark background. The render style creates a 'terminally viscous' look, heavy and flowing.
+```
