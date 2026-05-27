@@ -81,6 +81,10 @@ and generate immediately.
 | [Blueprint Portrait](./prompts/blueprint-portrait/) | Half-flesh, half-technical blueprint with cyanotype engineering schematics | Subject-only | Active |
 | [Geometric Broken Realism Portrait](./prompts/geometric-broken-realism-portrait/) | Fragmented geometric brushstrokes with polygon shapes and abstract blocks | Subject-only | Active |
 | [Paparazzi Portrait](./prompts/paparazzi-portrait/) | Black-and-white cinematic scene in a dense crowd of vintage paparazzi | Subject-only | Active |
+| [Bio-Energy Portrait](./prompts/bio-energy-portrait/) | Futuristic humanoid with turquoise bio-energy networks and neural circuits | Subject-only | Active |
+| [Macaw Portrait](./prompts/macaw-portrait/) | Ultra-realistic close-up portrait with vibrant blue-and-gold macaw | Subject-only | Active |
+| [Forced Perspective Portrait](./prompts/forced-perspective-portrait/) | Playful forced-perspective outdoor scene with humorous illusions | Subject-only | Active |
+| [Cyberpunk Code Portrait](./prompts/cyberpunk-code-portrait/) | Rain-soaked digital world portrait with Matrix-style code glasses | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
