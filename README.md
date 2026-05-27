@@ -74,6 +74,7 @@ and generate immediately.
 | [Liquid Chrome Portrait](./prompts/liquid-chrome-portrait/) | Futuristic sci-fi portrait morphing into liquid chrome with HDRI reflections | Subject-only | Active |
 | [Synthwave Poster Portrait](./prompts/synthwave-poster-portrait/) | 1980s retro movie poster with VHS aesthetics and split neon lighting | Subject-only | Active |
 | [Shattered Glass Portrait](./prompts/shattered-glass-portrait/) | Psychological fragmentation portrait through smashed safety glass | Subject-only | Active |
+| [Cyberpunk Glitch Portrait](./prompts/cyberpunk-glitch-portrait/) | Blade Runner-inspired glitch portrait with holographic UI and neon signage | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
