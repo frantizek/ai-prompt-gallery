@@ -107,6 +107,8 @@ and generate immediately.
 | [NURI Oaxaca Vogue Portrait](./prompts/nuri-oaxaca-vogue-portrait/) | 16K editorial magazine cover at Monte Albán with full overlay typography | Subject-only | Active |
 | [Salem Witch Portrait](./prompts/salem-witch-portrait/) | Gothic witch burning portrait with red moon and ritual atmosphere | Subject-only | Active |
 | [Gothic Skull Bathtub Portrait](./prompts/gothic-skull-bathtub-portrait/) | Gothic enchantress in skull-shaped bathtub with candlelit shadows | Subject-only | Active |
+| [Demonic Queen Portrait](./prompts/demonic-queen-portrait/) | Dark fantasy demonic queen with horns, pentagram, and hellish throne room | Subject-only | Active |
+| [Floating Girl & Goat Portrait](./prompts/floating-goat-portrait/) | Surreal gothic photograph of floating girl above a black goat in canyon | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
