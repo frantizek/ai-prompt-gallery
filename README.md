@@ -121,6 +121,9 @@ and generate immediately.
 | [Velma Cosplay Portrait](./prompts/velma-cosplay-portrait/) | Velma Dinkley cosplay in abandoned mansion library with moonlight | Subject-only | Active |
 | [Double Exposure Concert Portrait](./prompts/double-exposure-concert-portrait/) | Man on stage with crowd and giant profile silhouette in concert lights | Subject-only | Active |
 | [Liquid Paint Illustration Portrait](./prompts/liquid-paint-illustration-portrait/) | Digital illustration bust with liquid paint drips and cartoon aesthetics | Subject-only | Active |
+| [Retro Pop Art Portrait](./prompts/retro-pop-art-portrait/) | 1960s-70s Pop Art style with graphite gray skin and mustard yellow lenses | Subject-only | Active |
+| [Halloween Diner Portrait](./prompts/halloween-diner-portrait/) | Ghostface, Pennywise, and milkshake in a retro neon-lit diner | Subject-only | Active |
+| [Neo-Noir Watch Portrait](./prompts/neo-noir-watch-portrait/) | High-contrast B&W editorial with white shirt, scarf, and neon circle | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
