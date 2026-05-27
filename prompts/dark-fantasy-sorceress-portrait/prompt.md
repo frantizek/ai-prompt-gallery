@@ -1,0 +1,5 @@
+# Dark Fantasy Sorceress Portrait Prompt
+
+```
+A mysterious dark-fantasy sorceress emerges from the shadows, half of her face illuminated by a cold, dramatic side-light. She wears a rugged, textured hooded cloak that partially hides her face. Her skin is covered in intricate black runic markings and ancient mystical symbols that glow faintly. One eye is a haunting, fiery red with a supernatural shine, while the other is lost in shadow. Her expression is intense and intimidating, with slightly parted lips and a calm but dangerous presence. Hyper-realistic skin texture, high-detail pores, deep contrast, sharp focus on the eye, moody cinematic lighting, dark fantasy atmosphere, 4K ultra-realistic portrait, photographic depth, dramatic shadows, high-contrast dark tones, epic character design.
+```

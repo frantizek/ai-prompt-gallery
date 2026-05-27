@@ -1,0 +1,5 @@
+# Shattered Glass Portrait Prompt
+
+```
+A shattered reality concept featuring the uploaded face as reference viewed through a pane of smashed safety glass. The camera focuses on the glass shards at f/2.8, causing the subject's face behind it to be slightly fractured and refracted into multiple angles. Each shard of glass acts as a prism, splitting the light into spectral rainbows and chromatic aberrations. The lighting is cool and clinical, resembling a laboratory or interrogation room light. The subject's expression is stoic, distorted by the refraction. "Frantizek" is etched into the glass surface like a manufacturer's safety mark or a scratch, frosted and white. The render engine must handle complex ray-tracing to accurately simulate the refraction indices of the glass shards. Dust and glass powder float in the air, catching the light. The composition is chaotic yet centered, creating a sense of psychological fragmentation. High-frequency noise is added to the dark areas to simulate high-ISO film stock.
+```

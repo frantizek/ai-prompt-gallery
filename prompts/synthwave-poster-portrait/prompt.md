@@ -1,0 +1,5 @@
+# Synthwave Poster Portrait Prompt
+
+```
+A nostalgia-fueled 1980s synthwave movie poster. The uploaded face as reference is center stage, dressed in an iconic 1980s retro outfit featuring a glossy leather or satin bomber jacket with neon accents, a graphic synthwave-style T-shirt underneath, and subtle chrome jewelry, styled with retro sunglasses reflecting a grid-lined sunset. The image is heavily processed to look like a paused VHS tape: scanlines, tracking errors, color bleeding, and static noise are prominent. The lighting is a classic split setup: hot pink on the left, cyan on the right. The background features a wireframe landscape and a retro-futuristic sun. "Frantizek" is written in a chrome, metallic font with a laser sheen, positioned at the bottom in the style of an 80s blockbuster title card. The subject's skin has a plastic, airbrushed look typical of the era's poster art. Starburst flares pop off the sunglasses and any jewelry. The composition screams arcade cabinet art with high saturation and contrast. A grain overlay simulates low-quality magnetic tape degradation.
+```

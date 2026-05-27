@@ -1,0 +1,5 @@
+# Fantasy Tribal Portrait Prompt
+
+```
+Ultra realistic cinematic fantasy portrait of a mystical tribal forest man (while strictly preserving the subject's identity with accurate facial geometry), standing in a glowing woodland at golden hour, soft wind effect, glowing floating feathers around him, detailed white tribal face paint, leather and fur warrior outfit, boho tribal accessories, fur boots, dramatic sunlight rim lighting, dreamy atmosphere, shallow depth of field, forest bokeh background, highly detailed skin texture, ethereal fantasy mood, cinematic color grading, volumetric lighting, photorealistic, fantasy movie still, Unreal Engine 5 style, 85mm lens, ultra detailed, masterpiece, 8k, sharp focus, magical realism, dynamic pose, soft glow particles, warm tones, natural light shadows.
+```

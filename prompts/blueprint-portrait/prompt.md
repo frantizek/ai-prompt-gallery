@@ -1,0 +1,5 @@
+# Blueprint Portrait Prompt
+
+```
+A conceptual design poster where the uploaded face as reference is depicted as half-flesh, half-technical blueprint. The left side of the face is a hyper-realistic photograph with studio lighting (softbox key light), the subject wearing a clean, tailored engineering-inspired suit with a minimalist blazer, precise seams, and a modern monochrome tone, while the right side transitions into a cyanotype blueprint with white technical lines, measurements, and grid overlays. The transition is seamless, with wireframe polygons bridging the gap. The background is a textured, deep blue drafting paper. "AI TRENDS" is included in the technical legend box in the bottom corner, utilizing a monospace engineering font. The lighting on the realistic side highlights the skin texture and eye reflection, while the blueprint side is flat vector art. The composition represents the fusion of humanity and engineering. Detailed annotations point to specific facial features (e.g., "Retinal Scanner", "Zygomatic Arch"), adding a layer of sci-fi narrative. The finish is clean, sharp, and vector-like.
+```

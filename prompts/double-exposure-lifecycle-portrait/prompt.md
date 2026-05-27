@@ -1,0 +1,5 @@
+# Double Exposure Life Cycle Portrait Prompt
+
+```
+A surreal double-exposure artwork symbolizing the passage of time and the cycle of life. The composition shows two female faces merged into a vertical collage — one young and serene, the other older and wise — representing youth and aging. Between and around them, trees shift through the seasons: spring blossoms, summer greenery, autumn leaves, and winter barrenness. Above, the Earth and cosmic sky connect the elements of nature and time. Below, a landscape of fields and sunflowers transitions into a misty forest. The lighting is ethereal, with soft shadows and golden highlights, giving the scene a dreamlike, cinematic feel. Highly detailed, emotional, and symbolic — a visual metaphor for the harmony between humanity, nature, and the universe. 8K, hyper-realistic, fantasy art style.
+```
