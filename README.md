@@ -73,6 +73,7 @@ and generate immediately.
 | [Neo-Noir Portrait](./prompts/neo-noir-portrait/) | High-contrast cinematic graphic novel portrait with dual-tone lighting | Subject-only | Active |
 | [Liquid Chrome Portrait](./prompts/liquid-chrome-portrait/) | Futuristic sci-fi portrait morphing into liquid chrome with HDRI reflections | Subject-only | Active |
 | [Synthwave Poster Portrait](./prompts/synthwave-poster-portrait/) | 1980s retro movie poster with VHS aesthetics and split neon lighting | Subject-only | Active |
+| [Shattered Glass Portrait](./prompts/shattered-glass-portrait/) | Psychological fragmentation portrait through smashed safety glass | Subject-only | Active |
 
 ### 🏆 Sports & Collectibles
 
