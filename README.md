@@ -54,11 +54,19 @@ and generate immediately.
 
 ## Available Prompts
 
+### 🏙️ Places & Travel
+
 | Prompt | Description | Type | Status |
 |--------|-------------|------|--------|
 | [CityLine Poster](./prompts/cityline-poster/README.md) | Minimalist line-art city travel posters with editorial urban styling | City-name-only | Active |
 | [Vintage Watercolor Poster](./prompts/vintage-watercolor-poster/README.md) | Hand-painted vacation-style city posters with nostalgic warmth | City-name-only | Active |
 | [Cinematic Night Poster](./prompts/cinematic-night-poster/README.md) | Cinematic night city travel posters with glowing streets and moody urban atmosphere | City-name-only | Active |
+
+### 👤 Faces & Portraits
+
+| Prompt | Description | Type | Status |
+|--------|-------------|------|--------|
+| [Fantasy Tribal Portrait](./prompts/fantasy-tribal-portrait/) | Ultra-realistic cinematic fantasy portrait with tribal aesthetics | Subject-only | Active |
 
 See the full prompt index in [prompts/README.md](./prompts/README.md).
 
