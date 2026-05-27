@@ -70,6 +70,12 @@ and generate immediately.
 | [Fantasy Frost Warrior Portrait](./prompts/fantasy-frost-warrior-portrait/) | Ultra-realistic dark fantasy portrait with Nordic frost warrior theme | Subject-only | Active |
 | [Cinematic Mini-Me Portrait](./prompts/cinematic-mini-me-portrait/) | Side-by-side portrait with cartoon-style miniature version | Subject-only | Active |
 
+### 🏆 Sports & Collectibles
+
+| Prompt | Description | Type | Status |
+|--------|-------------|------|--------|
+| [World Cup Sticker Portrait](./prompts/world-cup-sticker-portrait/) | Premium collectible football sticker with holographic design | Customizable | Active |
+
 See the full prompt index in [prompts/README.md](./prompts/README.md).
 
 ---
